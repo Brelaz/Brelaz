@@ -5,7 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brelaz&show_icons=true&theme=radical)
 
-## Tecnologia que uso
 
 <div style="display: inline_block"><br/>
 
